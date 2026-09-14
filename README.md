@@ -7,10 +7,10 @@
 Eight projects, each with its own front door. Take a look around.
 
 <table>
-<tr><td width="50%"><sub>01 / THE STUDIO</sub><h3><a href="https://mestudio.ai/">MeStudio.AI ↗</a></h3><a href="https://mestudio.ai/">mestudio.ai</a><br><br></td><td width="50%"><sub>02 / THE ARENA</sub><h3><a href="https://fightclub.live/">FightClub.Live ↗</a></h3><a href="https://fightclub.live/">fightclub.live</a><br><br></td></tr>
-<tr><td width="50%"><sub>03 / THE QUESTION</sub><h3><a href="https://whorules.today/">WhoRules.Today ↗</a></h3><a href="https://whorules.today/">whorules.today</a><br><br></td><td width="50%"><sub>04 / THE IMAGE LAB</sub><h3><a href="https://gptimage25.ai/">GPTImage25.AI ↗</a></h3><a href="https://gptimage25.ai/">gptimage25.ai</a><br><br></td></tr>
-<tr><td width="50%"><sub>05 / THE MOTION ROOM</sub><h3><a href="https://h3max.io/">H3Max.io ↗</a></h3><a href="https://h3max.io/">h3max.io</a><br><br></td><td width="50%"><sub>06 / THE CANVAS</sub><h3><a href="https://image2.to/">image2.to ↗</a></h3><a href="https://image2.to/">image2.to</a><br><br></td></tr>
-<tr><td width="50%"><sub>07 / THE PERSPECTIVE</sub><h3><a href="https://howtopose.ai/">HowToPose.AI ↗</a></h3><a href="https://howtopose.ai/">howtopose.ai</a><br><br></td><td width="50%"><sub>08 / THE NEXT CHAPTER</sub><h3><a href="https://oner.app/">Oner.App ↗</a></h3><a href="https://oner.app/">oner.app</a><br><br></td></tr>
+<tr><td width="50%"><a href="https://mestudio.ai/"><img src="assets/project-1.svg" width="420" alt="MeStudio.AI — visit mestudio.ai"></a><br><a href="https://mestudio.ai/">MeStudio.AI</a></td><td width="50%"><a href="https://fightclub.live/"><img src="assets/project-2.svg" width="420" alt="FightClub.Live — visit fightclub.live"></a><br><a href="https://fightclub.live/">FightClub.Live</a></td></tr>
+<tr><td width="50%"><a href="https://whorules.today/"><img src="assets/project-3.svg" width="420" alt="WhoRules.Today — visit whorules.today"></a><br><a href="https://whorules.today/">WhoRules.Today</a></td><td width="50%"><a href="https://gptimage25.ai/"><img src="assets/project-4.svg" width="420" alt="GPTImage25.AI — visit gptimage25.ai"></a><br><a href="https://gptimage25.ai/">GPTImage25.AI</a></td></tr>
+<tr><td width="50%"><a href="https://h3max.io/"><img src="assets/project-5.svg" width="420" alt="H3Max.io — visit h3max.io"></a><br><a href="https://h3max.io/">H3Max.io</a></td><td width="50%"><a href="https://image2.to/"><img src="assets/project-6.svg" width="420" alt="image2.to — visit image2.to"></a><br><a href="https://image2.to/">image2.to</a></td></tr>
+<tr><td width="50%"><a href="https://howtopose.ai/"><img src="assets/project-7.svg" width="420" alt="HowToPose.AI — visit howtopose.ai"></a><br><a href="https://howtopose.ai/">HowToPose.AI</a></td><td width="50%"><a href="https://oner.app/"><img src="assets/project-8.svg" width="420" alt="Oner.App — visit oner.app"></a><br><a href="https://oner.app/">Oner.App</a></td></tr>
 </table>
 
 ---
